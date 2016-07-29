@@ -1,0 +1,1 @@
+{{brown}},{{lightBrown}},{{red}},{{white}},{{lightBrown}},{{white}},{{red}},{{red}}

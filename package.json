@@ -1,0 +1,16 @@
+{
+  "name": "forestry",
+  "version": "1.0.0",
+  "description": "A collection of great looking editor themes",
+  "author": "Joshua Ogle",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huskco/forestry"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
